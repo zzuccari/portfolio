@@ -11,8 +11,14 @@
 # the About/bio page with contacts. Uncomment as content is added.
 
 main:
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "News"
+    url: /year-archive/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "CV"
+    url: /cv/
 
   # - title: "Talks"
   #   url: /talks/
@@ -22,12 +28,6 @@ main:
 
   # - title: "Portfolio"
   #   url: /portfolio/
-
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-
-  # - title: "CV"
-  #   url: /cv/
 
   # - title: "CV"
   #   url: /cv-json/
