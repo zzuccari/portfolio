@@ -16,10 +16,9 @@ Education
 
 Relevant coursework
 ======
-* Physics & Mathematics: experimental physics, solid-state and materials physics, low-dimensional systems, mathematical methods
+* Physics & Mathematics: experimental physics, solid-state and materials physics, low-dimensional systems, cryogenics, mathematical methods
 * Chemistry: general/inorganic, organic, physical, solid-state, and analytical chemistry
 * Advanced Materials Science: organic and biological electronics, optoelectronic materials, biomaterials, 2D materials, nanostructured materials, microscopy and nanoscopy, superconducting and magnetic materials
-* Laboratory techniques: electronics lab, experimental physics labs, scientific computing
 
 Research experience
 ======
@@ -43,7 +42,7 @@ Skills
 * J-V characterization of solar cells
 * Biomaterials for cardiovascular applications
 * Data analysis (Python, Origin)
-* Academic/professional English
+* DFT simulations
 
 Publications
 ======

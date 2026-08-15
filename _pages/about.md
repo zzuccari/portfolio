@@ -21,4 +21,4 @@ Skills
 * J-V characterization of solar cells
 * Biomaterials for cardiovascular applications
 * Data analysis (Python, Origin)
-* Academic/professional English
+* DFT simulations
