@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Materials Science and Technology, University of Rome Tor Vergata, 2027 (expected)
+* M.S. in Materials Science and Technology, University of Rome Tor Vergata, Dec 2026 (expected)
 * B.S. in Materials Science, University of Rome Tor Vergata, 2024
 
 Relevant coursework
@@ -26,7 +26,7 @@ Research experience
   * Boston Children's Hospital
   * Advisor: Prof. Yifeng Peng — Co-advisor: Prof. Fabio Domenici
 
-* Sep 2025 – present: Research Intern
+* Sep 2025 – Jul 2026: Research Intern
   * CHOSE Laboratories, University of Rome Tor Vergata
   * Solar cells for biological applications
   * Advisor: Prof. Thomas M. Brown
