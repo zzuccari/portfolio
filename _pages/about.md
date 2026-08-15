@@ -15,4 +15,10 @@ I am currently working on my Master's thesis project at Boston Children's Hospit
 
 Skills
 ======
-*Coming soon.*
+* CVD growth of carbon nanotubes
+* Thin-film solar cell fabrication (spray coating, screen printing, solution processing)
+* RF/microwave characterization (S-parameters)
+* J-V characterization of solar cells
+* Biomaterials for cardiovascular applications
+* Data analysis (Python, Origin)
+* Academic/professional English
