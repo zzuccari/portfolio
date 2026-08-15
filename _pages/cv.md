@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Materials Science and Technology, University of Rome Tor Vergata, 2027 (expected)
-* B.S. in Materials Science, University of Rome Tor Vergata
+* B.S. in Materials Science, University of Rome Tor Vergata, 2024
 
 Relevant coursework
 ======
@@ -26,23 +26,40 @@ Research experience
   * Boston Children's Hospital
   * Advisor: Prof. Yifeng Peng — Co-advisor: Prof. Fabio Domenici
 
-* One-year research project
+* Sep 2025 – present: Research Intern
   * CHOSE Laboratories, University of Rome Tor Vergata
+  * Solar cells for biological applications
   * Advisor: Prof. Thomas M. Brown
 
-* Undergraduate research
+* Sep 2024 – Dec 2024: Bachelor's Thesis
   * University of Rome Tor Vergata
-  * Advisor: Prof. M. Scarselli
+  * Synthesis of carbon nanotube (CNT) sponges and characterization of their electromagnetic properties; led to a peer-reviewed publication
+  * Advisor: Prof. Manuela Scarselli
+
+* Apr 2024 – Jul 2024: Research Intern
+  * Laboratory of Prof. Matteo Salvato, University of Rome Tor Vergata
+  * Fabrication of Bi₂Se₃ topological insulator thin films by vapor-solid deposition and study of the photoconductive effect under polarized light
+  * Advisor: Prof. Matteo Salvato
+
+Honors & awards
+======
+* Merit-based scholarship, University of Rome Tor Vergata — ranked 1st in class merit list (A.Y. 2021/2022, 2022/2023, 2024/2025)
 
 Skills
 ======
 * CVD growth of carbon nanotubes
+* Vapor-solid deposition (VSD) thin-film growth
 * Thin-film solar cell fabrication (spray coating, screen printing, solution processing)
 * RF/microwave characterization (S-parameters)
 * J-V characterization of solar cells
+* Optoelectronic characterization (I-V, photoconductivity under polarized light)
+* Lock-in amplifier / chopper measurement technique
 * Biomaterials for cardiovascular applications
-* Data analysis (Python, Origin)
 * DFT simulations
+* LabVIEW
+* Data analysis and scientific computing: Python (advanced), Origin
+* LaTeX
+* HTML/web basics
 
 Publications
 ======

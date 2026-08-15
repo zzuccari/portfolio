@@ -9,16 +9,22 @@ redirect_from:
 
 Hello! My name is Zeno Zuccari and I am currently a 2nd-year Master's student in Materials Science and Technology at the University of Rome Tor Vergata.
 
-After completing my undergraduate studies in Materials Science at the University of Rome Tor Vergata under the supervision of Prof. M. Scarselli, I enrolled in the Master's degree program. During this time, I carried out a one-year research project at the CHOSE laboratories, advised by Prof. Thomas M. Brown.
+After completing my undergraduate studies in Materials Science at the University of Rome Tor Vergata under the supervision of Prof. M. Scarselli, I enrolled in the Master's degree program. Since September 2025, I have been a research intern at the CHOSE laboratories, working on solar cells for biological applications, advised by Prof. Thomas M. Brown.
 
 I am currently working on my Master's thesis project at Boston Children's Hospital, advised by Prof. Yifeng Peng and co-advised by Prof. Fabio Domenici.
 
 Skills
 ======
 * CVD growth of carbon nanotubes
+* Vapor-solid deposition (VSD) thin-film growth
 * Thin-film solar cell fabrication (spray coating, screen printing, solution processing)
 * RF/microwave characterization (S-parameters)
 * J-V characterization of solar cells
+* Optoelectronic characterization (I-V, photoconductivity under polarized light)
+* Lock-in amplifier / chopper measurement technique
 * Biomaterials for cardiovascular applications
-* Data analysis (Python, Origin)
 * DFT simulations
+* LabVIEW
+* Data analysis and scientific computing: Python (advanced), Origin
+* LaTeX
+* HTML/web basics
