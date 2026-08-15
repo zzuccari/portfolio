@@ -14,6 +14,13 @@ Education
 * M.S. in Materials Science and Technology, University of Rome Tor Vergata, 2027 (expected)
 * B.S. in Materials Science, University of Rome Tor Vergata
 
+Relevant coursework
+======
+* Physics & Mathematics: experimental physics, solid-state and materials physics, low-dimensional systems, mathematical methods
+* Chemistry: general/inorganic, organic, physical, solid-state, and analytical chemistry
+* Advanced Materials Science: organic and biological electronics, optoelectronic materials, biomaterials, 2D materials, nanostructured materials, microscopy and nanoscopy, superconducting and magnetic materials
+* Laboratory techniques: electronics lab, experimental physics labs, scientific computing
+
 Research experience
 ======
 * Current: Master's Thesis Researcher
