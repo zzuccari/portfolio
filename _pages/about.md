@@ -23,6 +23,7 @@ Skills
 * Optoelectronic characterization (I-V, photoconductivity under polarized light)
 * Atomic force microscopy (AFM)
 * NMR spectroscopy
+* UV-Vis spectroscopy
 * BET isotherm analysis
 * Lock-in amplifier / chopper measurement technique
 * Biomaterials for cardiovascular applications
