@@ -21,6 +21,7 @@ Skills
 * RF/microwave characterization (S-parameters)
 * J-V characterization of solar cells
 * Optoelectronic characterization (I-V, photoconductivity under polarized light)
+* Atomic force microscopy (AFM)
 * Lock-in amplifier / chopper measurement technique
 * Biomaterials for cardiovascular applications
 * DFT simulations
