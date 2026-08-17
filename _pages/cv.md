@@ -40,7 +40,7 @@ Research experience
   * Laboratory of [Prof. Matteo Salvato](https://www.fisica.uniroma2.it/elenco-telefonico/msalvato/), University of Rome Tor Vergata
   * Fabrication of Bi₂Se₃ topological insulator thin films by vapor-solid deposition and study of the photoconductive effect under polarized light
   * Advisor: [Prof. Matteo Salvato](https://www.fisica.uniroma2.it/elenco-telefonico/msalvato/)
-  * [Download full report (PDF, Italian)](/portfolio/files/bi2se3-thin-films-report.pdf)
+  * [Download full report (PDF, Italian)](/portfolio/files/zuccari-bi2se3-thin-films-photoconductivity-report.pdf)
 
 Honors & awards
 ======
