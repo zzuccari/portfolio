@@ -22,6 +22,7 @@ Skills
 * J-V characterization of solar cells
 * Optoelectronic characterization (I-V, photoconductivity under polarized light)
 * Atomic force microscopy (AFM)
+* X-ray diffraction (XRD)
 * NMR spectroscopy
 * UV-Vis spectroscopy
 * BET isotherm analysis
