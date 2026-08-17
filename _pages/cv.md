@@ -24,22 +24,22 @@ Research experience
 ======
 * Current: Master's Thesis Researcher
   * Boston Children's Hospital
-  * Advisor: Prof. Yifeng Peng — Co-advisor: Prof. Fabio Domenici
+  * Advisor: [Prof. Yifeng Peng](https://research.childrenshospital.org/researchers/yifeng-peng) — Co-advisor: [Prof. Fabio Domenici](https://phd.uniroma2.it/web/FABIO-DOMENICI_nC4816_EN.aspx)
 
 * Sep 2025 – Jul 2026: Research Intern
   * CHOSE Laboratories, University of Rome Tor Vergata
   * Solar cells for biological applications
-  * Advisor: Prof. Thomas M. Brown
+  * Advisor: [Prof. Thomas M. Brown](http://www.chose.uniroma2.it/en/staff/97-thomas-brown.html)
 
 * Sep 2024 – Dec 2024: Bachelor's Thesis
   * University of Rome Tor Vergata
   * Synthesis of carbon nanotube (CNT) sponges and characterization of their electromagnetic properties; led to a peer-reviewed publication
-  * Advisor: Prof. Manuela Scarselli
+  * Advisor: [Prof. Manuela Scarselli](https://didatticaweb.uniroma2.it/docenti/curriculum_vitae/5054-Manuela-Angela-Scarselli)
 
 * Apr 2024 – Jul 2024: Research Intern
-  * Laboratory of Prof. Matteo Salvato, University of Rome Tor Vergata
+  * Laboratory of [Prof. Matteo Salvato](https://www.fisica.uniroma2.it/elenco-telefonico/msalvato/), University of Rome Tor Vergata
   * Fabrication of Bi₂Se₃ topological insulator thin films by vapor-solid deposition and study of the photoconductive effect under polarized light
-  * Advisor: Prof. Matteo Salvato
+  * Advisor: [Prof. Matteo Salvato](https://www.fisica.uniroma2.it/elenco-telefonico/msalvato/)
 
 Honors & awards
 ======
