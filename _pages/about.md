@@ -27,6 +27,7 @@ Skills
 * BET isotherm analysis
 * Lock-in amplifier / chopper measurement technique
 * Biomaterials for cardiovascular applications
+* Cell viability assays (Trypan Blue exclusion, MTT)
 * DFT simulations
 * LabVIEW
 * Data analysis and scientific computing: Python (advanced), Origin
