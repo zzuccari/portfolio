@@ -7,8 +7,12 @@ excerpt: 'High-frequency response of multiwalled carbon nanotube sponges (CNSs) 
 date: 2026-02-17
 venue: 'Beilstein Journal of Nanotechnology'
 paperurl: 'https://www.beilstein-journals.org/bjnano/articles/17/23'
+header:
+  teaser: cnt-sponge-graphical-abstract.jpg
 citation: 'Scarselli, M., Rezvani, J., <strong>Zuccari, Z.</strong>, Scagliotti, M., &amp; Tocci, S. (2026). &quot;Interconnection morphology effects on the radio frequency response of carbon nanotube sponges.&quot; <i>Beilstein Journal of Nanotechnology</i>, 17(1), 343-351.'
 ---
+
+![Graphical abstract: ethanol treatment induces bundle splitting in MWCNT sponges, enhancing RF absorption](/portfolio/images/cnt-sponge-graphical-abstract.jpg)
 
 In this work, the high-frequency response of a multiwalled carbon nanotube (MWCNT) film grown on a silicon substrate is compared with that of MWCNT sponges (CNSs). Different from the CNT film, CNSs are a self-standing material that can operate in the absence of a supporting substrate, showing high flexibility, light weight, and mechanical robustness.
 
