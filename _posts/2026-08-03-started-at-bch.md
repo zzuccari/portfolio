@@ -8,4 +8,4 @@ header:
 
 On August 3, 2026, I started my Master's thesis research at Boston Children's Hospital — Harvard Medical School, working on biomaterials for cardiovascular applications, advised by Prof. Yifeng Peng and co-advised by Prof. Fabio Domenici.
 
-![Boston Children's Hospital — Harvard Medical School](/portfolio/images/bch-logo.png)
+<img src="/portfolio/images/bch-logo.png" alt="Boston Children's Hospital — Harvard Medical School" width="350">

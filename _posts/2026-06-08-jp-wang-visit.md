@@ -8,4 +8,4 @@ header:
 
 On June 8, 2026, Prof. Jian-Ping Wang from the University of Minnesota, an expert in magnetics, spintronics, and nanotechnology, visited the University of Rome Tor Vergata.
 
-![Group photo with Prof. Jian-Ping Wang at Tor Vergata](/portfolio/images/jpwang-visit-2026.jpg)
+<img src="/portfolio/images/jpwang-visit-2026.jpg" alt="Group photo with Prof. Jian-Ping Wang at Tor Vergata" width="350">
