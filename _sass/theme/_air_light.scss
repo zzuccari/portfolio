@@ -15,8 +15,7 @@ $text                       : #222831;
 $link                       : #393e46;
 $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : mix(#fff, $link, 25%);
-$footer                     : #f2f3f3;
-$masthead-bg                : #007832;
+$footer                     : $primary-color;
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
@@ -40,7 +39,6 @@ $sidebar-screen-min-width   : 1024px;
     --global-base-color                 : #{$primary-color};
     --global-bg-color                   : #{$background};
     --global-footer-bg-color            : #{$footer};
-    --global-masthead-bg-color          : #{$masthead-bg};
     --global-border-color               : #{$light-primary-color};
     --global-dark-border-color          : #{$background-light};
     --global-code-background-color      : #fafafa;
@@ -49,8 +47,8 @@ $sidebar-screen-min-width   : 1024px;
     --global-link-color                 : #{$link};
     --global-link-color-hover           : #{$link-dark};
     --global-link-color-visited         : #{$link-light};
-    --global-masthead-link-color        : #ffffff;
-    --global-masthead-link-color-hover  : #dcf2e3;
+    --global-masthead-link-color        : #{$text};
+    --global-masthead-link-color-hover  : #{$primary-color};
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$light-primary-color};
     --global-thead-color                : #{$background-lighter};
