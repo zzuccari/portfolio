@@ -23,7 +23,7 @@ Relevant coursework
 Research experience
 ======
 * Current: Master's Thesis Researcher
-  * Boston Children's Hospital
+  * Boston Children's Hospital - Harvard Medical School
   * Advisor: [Prof. Yifeng Peng](https://research.childrenshospital.org/researchers/yifeng-peng) — Co-advisor: [Prof. Fabio Domenici](https://phd.uniroma2.it/web/FABIO-DOMENICI_nC4816_EN.aspx)
 
 * Sep 2025 – Jul 2026: Research Intern
