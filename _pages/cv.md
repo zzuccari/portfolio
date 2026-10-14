@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Materials Science and Technology, University of Rome Tor Vergata, Dec 2026 (expected)
+* M.S. in Materials Science and Technology, University of Rome Tor Vergata, Feb 2027 (expected)
 * B.S. in Materials Science, University of Rome Tor Vergata, 2024
 
 Relevant coursework
